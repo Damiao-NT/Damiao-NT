@@ -14,7 +14,7 @@
   
 <div align="center">
   <a href="https://github.com/Damiao-NT">
-   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damiao-NT&layout=compact&langs_count=7&theme=dark"/>
+   <img height="134em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damiao-NT&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 
