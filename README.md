@@ -5,14 +5,14 @@
 - 🌱 Estou aprendendendo Machine Learning com python.
 
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/Damiao-NT">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Damiao-NT&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
   
   
   
-<div align="right">
+<div align="center">
   <a href="https://github.com/Damiao-NT">
    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damiao-NT&layout=compact&langs_count=7&theme=dark"/>
 </div>
